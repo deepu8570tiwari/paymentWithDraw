@@ -61,7 +61,7 @@ Server runs on:
 node src/seed.js
 ```
 
-This will create: - Test user - Wallet - Initial balance
+This will create: - Test user - Wallet - Initial balance. Make Sure copy the userId and pass in paymentwithDraw.js file to check the transaction.
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ Run:
 ``` bash
 node paymentwithDraw.js
 ```
-This sends concurrent withdrawal requests and validates balance safety.
+This sends concurrent withdrawal requests and validates balance safety. 
 
 ------------------------------------------------------------------------
 
